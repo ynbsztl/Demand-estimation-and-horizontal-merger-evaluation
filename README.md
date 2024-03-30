@@ -3,7 +3,9 @@
 structure econometrics practice
 
 Part A
-using stata
+using stata and R both.
 
 Part B
-using python
+using R
+
+python draft, only one single regression was using for simulation. 
